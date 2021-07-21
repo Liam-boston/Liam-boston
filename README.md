@@ -7,8 +7,8 @@ I'm an aspiring full stack developer and undergraduate student at Penn State. I 
 JAVA / PYTHON / DART / REACTJS / TYPESCRIPT / HTML / CSS / BOOTSTRAP / FLUTTER / NODE.JS / DJANGO / REST API / DOCKER / GITHUB / LINUX
 
 #### :video_game: My Motto
-"If it were easy, everybody would do it." - Tom Hanks
+"If it were easy, everybody would do it." - Tom Hanks<br/><br/>
 
-<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/?username=Liam-boston&theme=tokyonight" style="max-width:100%;" />
-<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-boston&layout=compact&theme=tokyonight" style="max-width:100%;" />
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/?username=Liam-boston&theme=tokyonight" style="max-width:100%;" />
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-boston&layout=compact&line_height=27&theme=tokyonight" style="max-width:100%;" />
 
