@@ -9,6 +9,6 @@ JAVA / PYTHON / DART / REACTJS / TYPESCRIPT / HTML / CSS / BOOTSTRAP / FLUTTER /
 #### 💬 My Motto
 "If it were easy, everybody would do it." - Tom Hanks<br/><br/>
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/?username=Liam-boston&theme=gruvbox" style="max-width:100%;" />
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-boston&layout=compact&line_height=27&theme=gruvbox" style="max-width:100%;" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/?username=Liam-boston&theme=gruvbox" />
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-boston&layout=compact&line_height=27&theme=gruvbox" />
 
