@@ -1,7 +1,7 @@
 <img src=https://media.giphy.com/media/fd4541gIoVM2vZbyVo/giphy.gif width="640px">
 
 #### 📙 About Me
-I'm an aspiring full stack developer and undergraduate student at Penn State. I was adopted by the <br /> programming community 6 years ago after spending ~~some~~ a lot of time studying Java. Now, I'm <br /> working on a series of plugins for the Microsoft Office platforms. They are designed to teach users <br /> basic computer literacy skills and how to use each platform. 
+I'm a full-stack developer with 5 years of experience building web and mobile applications. I <br />recently earned my Master's in Software Engineering from Penn State, where I worked on<br /> projects like <b>ActiveSync</b>, a fitness-tracking app, and <b>GatherRound</b>, a tool for organizing club<br /> events. Now, I'm looking to collaborate on projects that innovate and inspire, leveraging my skills<br /> to create meaningful solutions for real-world needs!
 
 #### 📈 My Tech Stack
 <b>Programming Languages</b> - Java, Python <br />
