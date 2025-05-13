@@ -1,13 +1,15 @@
 <img src=https://media.giphy.com/media/fd4541gIoVM2vZbyVo/giphy.gif width="640px">
 
 #### 📙 About Me
-I'm a full-stack developer with 5 years of experience building web and mobile applications. I <br />recently earned my Master's in Software Engineering from Penn State, where I worked on<br /> projects like <b>ActiveSync</b>, a fitness-tracking app, and <b>GatherRound</b>, a tool for organizing club<br /> events. Now, I'm looking to collaborate on projects that innovate and inspire, leveraging my skills<br /> to create meaningful solutions for real-world needs!
+I'm a software engineer with 6 years of experience developing full-stack web and mobile<br /> applications. I recently earned my Master's in Software Engineering from Penn State, where I<br /> worked on projects like <b>ActiveSync</b>, a fitness-tracking app, and <b>GatherRound</b>, a tool for<br /> organizing club events. Now, I'm looking to collaborate on projects that innovate and inspire,<br /> leveraging my skills to create meaningful solutions for real-world needs!
 
 #### 📈 My Tech Stack
-<b>Programming Languages</b> - Java, Python <br />
-<b>Web Development</b> - JavaScript, ReactJS, HTML, CSS, Bootstrap, Django, Node.js, Drupal, WordPress <br />
-<b>Mobile Development</b> - iOS, Android, Flutter, MongoDB, Firestore <br />
-<b>Tools & Technologies</b> - Git, Jira, Docker, Firebase <br />
+<b>Frontend:</b> JavaScript, TypeScript, React.js, Jest, HTML, CSS, Bootstrap<br />
+<b>Backend:</b> Java, Spring Boot, Maven, JUnit, Python, PHP, Node.js, Django<br />
+<b>Databases:</b> Relational (Oracle, MySQL, SQLite), Non-Relational (MongoDB, Cloud Firestore, Redis)<br />
+<b>Dev Tools & Platforms:</b> Git, Docker, Atlassian Jira, Intellij IDEA, VS Code, WordPress, Drupal<br />
+<b>Methodologies & Environments:</b> Agile, Scrum, Windows, Linux<br />
+<b>Architectural Patterns:</b> RESTful Design Principles, Client-Server Models, Microservices
 
 #### 💬 My Motto
 "If it were easy, everybody would do it." - Tom Hanks<br/><br/>
